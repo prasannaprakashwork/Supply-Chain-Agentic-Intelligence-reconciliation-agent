@@ -1,4 +1,4 @@
-# SCAI · Reconciliation Agent
+# Supply Chain Agentic Intelligence (SCAI) · Reconciliation Agent
 ### Module 01 of Supply Chain Agentic Intelligence (SCAI)
 
 **Supply Chain Agentic Intelligence (SCAI)** is an ongoing personal initiative exploring how agentic AI can support the parts of supply chain and demand planning work that are recurring, high-volume, and judgment-heavy — the kind of work that currently gets done by hand every week. This repository is the first working module: an agent that automates weekly Schedule Receipt reconciliation across Contract Manufacturers and demand planning teams.
